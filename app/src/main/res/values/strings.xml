@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APP</string>
+
+    <string name="please_wait">请稍候...</string>
+    <string name="confirm_quit">您确定要退出应用?</string>
+
+
+    <string name="string_tv_top_bar_back">返回</string>
+    <string name="string_tv_setting"></string>
+
+</resources>
